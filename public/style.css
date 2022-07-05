@@ -9,8 +9,6 @@ body {
   height: 90vh;
   width: 900px;
   margin-top: 2rem;
-
-  /* From https://css.glass */
   background: rgba(255, 255, 255, 0.59);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -19,9 +17,8 @@ body {
 }
 
 #chat {
-  /* From https://css.glass */
-  background: rgba(255, 255, 255, 0.29);
 
+  background: rgba(255, 255, 255, 0.29);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
@@ -30,7 +27,6 @@ body {
   border-bottom-left-radius: 16px;
 }
 .btn-chat {
-  /* From https://css.glass */
   background: rgba(255, 255, 255, 0.84);
   border-radius: 16px 0px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -47,7 +43,6 @@ body {
 }
 
 .chat-incoming {
-  /* From https://css.glass */
   background: rgba(74, 0, 224, 1);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -67,7 +62,6 @@ body {
   padding: 5px;
   text-align: left;
   overflow: hidden;
-  /* From https://css.glass */
   background: rgba(142, 45, 226, 1);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
